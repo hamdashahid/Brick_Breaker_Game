@@ -5,6 +5,7 @@ Welcome to **Brick Breaker Game**, a classic arcade-style game where you break b
 ---
 
 ## 🚀 Features
+
 ✅ **Multiple Challenging Levels** – Each level introduces new difficulties and surprises!
 ✅ **Exciting Power-Ups** – Speed boosts, multi-balls, bigger paddles, and more!
 ✅ **Classic Gameplay** – A modern twist on the legendary brick-breaking game.
@@ -20,16 +21,18 @@ Welcome to **Brick Breaker Game**, a classic arcade-style game where you break b
    ```sh
    cd Brick_Breaker_Game
    ```
-3. Compile & Run 
+3. Compile & Run
+
    - **For C++**:
-    1. Compile the game using a C++ compiler:
-        ```sh
-        make
-        ```
-    2. Run the game:
-        ```sh
-        ./game
-        ```
+
+   1. Compile the game using a C++ compiler:
+      ```sh
+      make
+      ```
+   2. Run the game:
+      ```sh
+      ./game
+      ```
 
 4. Enjoy playing! 🎾
 
@@ -45,10 +48,12 @@ Welcome to **Brick Breaker Game**, a classic arcade-style game where you break b
 💡 **Pro Tip:** Use the paddle’s edges to change the ball’s direction strategically!
 
 ## 🕹️ Controls
+
 - **Left Arrow (←) / Right Arrow (→) or Mouse Movement** – Move the paddle left or right.
 - **W (←) / R (→)** – Move the paddle left or right.
 
 ## 🎯 Features
+
 ✔️ Multiple Levels – Increasing difficulty with new challenges!
 ✔️ Exciting Power-Ups – Grow your paddle, slow down time, and more!
 ✔️ Classic Gameplay – Enjoy the nostalgic fun of the original Brick Breaker with a modern touch.
@@ -63,23 +68,29 @@ Welcome to **Brick Breaker Game**, a classic arcade-style game where you break b
 ## 🖥️ Screenshots
 
 ### Main Menu
-![Main Menu](path/to/Brick_Breaker_menu.png)
+
+![Main Menu](screenshots/Brick_Breaker_menu.png)
 
 ### Level 1
-![Level 1](path/to/Brick_Breaker_level1.png)
+
+![Level 1](screenshots/Brick_Breaker_level1.png)
 
 ### Level 2
-![Level 2](path/to/Brick_Breaker_level2.png)
+
+![Level 2](screenshots/Brick_Breaker_level2.png)
 
 ### Level 3 – The Final Challenge!
-![Level 3](path/to/Brick_Breaker_level3.png)
+
+![Level 3](screenshots/Brick_Breaker_level3.png)
 
 ## 📜 Credits
+
 - **Developed by:** Hamda Shahid
-- **Built with:** C++ / Python (Pygame)
+- **Built with:** C++ & Glut
 - **Version:** 1.0
 
 ## 📌 Future Updates
+
 - [ ] More levels with increasing difficulty.
 - [ ] Different paddle skins and ball designs.
 - **New power-ups and obstacles!**
@@ -89,6 +100,6 @@ Welcome to **Brick Breaker Game**, a classic arcade-style game where you break b
 
 Enjoy the game, and let me know if you have any feedback or feature suggestions! 🚀🎮
 
-
 ## Copyright
+
 © 2023 Hamda Shahid. All rights reserved.
